@@ -24,7 +24,7 @@ class WordPressController extends Controller
     }
 
     // 方法：修改使用者密碼
-    public function updateUserPassword(Request $request, $userId)
+    public function updateUserPassword(Request $request)
     {
         $username = $request->username; // 用户提交的用户名
         $newPassword = $request->new_password; // 用户提交的新密码

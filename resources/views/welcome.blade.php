@@ -13,7 +13,7 @@
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
         <div class="container mt-5">
-            <h1>部落個測試</h1>
+            <h1>部落格測試</h1>
     
             {{-- 新增使用者表單 --}}
             <h2 class="mt-4">新增使用者表單</h2>
